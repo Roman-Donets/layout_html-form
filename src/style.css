@@ -3,10 +3,12 @@ fieldset {
   margin-top: 20px;
   margin-bottom: 20px;
 }
+
 .information {
   margin-bottom: 10px;
   display: flex;
 }
+
 input {
   margin-left: 2px;
 }

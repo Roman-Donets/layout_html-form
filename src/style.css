@@ -7,6 +7,6 @@ fieldset {
   margin-bottom: 10px;
   display: flex;
 }
-input {
-  margin-left: 3px;
+input  {
+  margin-left: 2px;
 }

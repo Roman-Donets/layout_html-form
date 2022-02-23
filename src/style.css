@@ -1,14 +1,19 @@
 /* styles go here */
 fieldset {
   margin-top: 20px;
-  margin-bottom: 20px;
+  
 }
 
 .information {
-  margin-bottom: 10px;
+  padding-top: 10px;
   display: flex;
+ 
 }
 
-input {
+.st {
   margin-left: 2px;
+}
+
+.submit {
+  margin-top: 20px;
 }
